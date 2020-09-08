@@ -1,0 +1,16 @@
+{
+  "name": "Existing Docker Compose (Extend)",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "node12",
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "terminal.integrated.shell.linux": null
+  },
+  "extensions": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "orta.vscode-jest",
+    "formulahendry.code-runner"
+  ]
+}
