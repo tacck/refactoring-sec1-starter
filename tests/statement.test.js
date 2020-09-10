@@ -1,4 +1,4 @@
-const { statement } = require('statement')
+import { statement } from '../src/statement'
 
 describe('check statement', () => {
   it('plain tesxt invoice test', () => {

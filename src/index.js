@@ -1,6 +1,6 @@
 'use strict'
 
-const { statement } = require('./statement')
+import { statement } from './statement'
 
 // -- テストデータの実行
 const plays = require('./plays.json')
