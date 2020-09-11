@@ -1,7 +1,7 @@
 import { statement } from '../src/statement'
 
 describe('check statement', () => {
-  it('plain tesxt invoice test', () => {
+  it('plain text invoice', () => {
     const plays = require('plays.json')
     const invoices = require('invoices.json')
     const expectedResults = [
